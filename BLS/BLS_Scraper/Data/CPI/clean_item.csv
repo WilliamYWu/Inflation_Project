@@ -1,0 +1,12 @@
+item_code,item_name
+SA0,All items
+SA0E,Energy
+SA0L1,All items less food
+SA0L12,All items less food and shelter
+SA0L12E,"All items less food, shelter, and energy"
+SA0L12E4,"All items less food, shelter, energy, and used cars and trucks"
+SA0L1E,All items less food and energy
+SA0L2,All items less shelter
+SA0L5,All items less medical care
+SA0LE,All items less energy
+SA0R,Purchasing power of the consumer dollar
